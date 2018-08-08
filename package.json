@@ -1,0 +1,23 @@
+{
+  "name": "node-js-sample",
+  "version": "0.0.1",
+  "description": "A sample Node.js app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "google-libphonenumber": "3.1.11",
+    "lodash": "4.17.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Canedo/nodeProjectExample"
+  },
+  "keywords": [
+    "node",
+    "example"
+  ],
+  "author": "Igor Canedo",
+  "license": "MIT"
+}
